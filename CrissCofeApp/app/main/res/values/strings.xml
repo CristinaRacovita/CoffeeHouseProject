@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Criss Cafe</string>
+    <string name="intro_text">Criss Specialities</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.\n<b>Price: </b>4$</string>
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.\n<b>Price:</b> 5$</string>
+    <string name="froyo">Our coffee is the best coffee in town.It is made with a lot of love.\n<b>Price:</b> 8$</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a Coffee.</string>
+    <string name="shop_cart">Your products.</string>
+    <string name="client_order">Order</string>
+    <string name="client_name">Name </string>
+    <string name="client_address">Address </string>
+    <string name="client_phone">Phone </string>
+    <string name="client_note">Note:</string>
+    <string name="delivery_method">Choose a delivery method:</string>
+    <string name="method1">Delivery with drones</string>
+    <string name="method2">Delivery by human</string>
+    <string name="method3">Pick up</string>
+    <string name="remove_cart">Empty cart</string>
+    <string name="name_hint">Enter your name here.</string>
+    <string name="address_hint">Enter your address here.</string>
+    <string name="phone_hint">Enter your phone here.</string>
+    <string name="note_hint">Special instructions ...</string>
+    <string name="settings">Settings</string>
+    <string name="contact">Contact</string>
+    <string name="order_action">Order</string>
+    <string name="status">Status</string>
+    <string name="favourite">Favourites</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+    <string name="order_button">I want \nto ORDER</string>
+    <string name="alert_text">Attention! Your order will be placed!</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+    <string name="yout_order_title">YOUR ORDER</string>
+    <string name="title_activity_order">CHECKOUT</string>
+    <string name="thank_you">Thank You\nFor Your Order</string>
+    <string name="phone_number">0236127845</string>
+    <string name="luni_vineri">Monday - Friday</string>
+    <string name="program">08AM-10PM CT</string>
+    <string name="send_message">SEND A MESSAGE</string>
+    <string name="sediu">Where you find us?</string>
+    <string name="street">25 George Baritiu, Cluj-Napoca</string>
+    <string name="answers">OR, FIND YOUR ANSWERS HERE</string>
+    <string name="faq_title"><b>FAQ</b>\n\n</string>
+    <string name="faq">
+        <i><b>How do I place my order?</b></i>\n
+You may place your order through:\n
+1) Order online through our online ordering system\n
+2) Calling our office numbers at 6440 8084 or 6440 8075\n
+3) Fax your order form to our fax number at 6344 9225\n
+4) Email your order form to order@crisscoffe.com\n
+5) Purchase from our shop directly as walk-in customers at 25 George Baritiu\n\n
+        <i> <b>What is the minimum order?</b></i>\n
+The minimum order for delivery is $5.00, excluding a delivery charge depending on the location of delivery.\n\n
+        <i><b>What can I expect after I have placed an order?</b></i>\n
+You would receive an email and/or a phone call from us once the order has been processed. Your order is only be confirmed after you have received the email and/or the phone call.\n\n
+        <i><b> If I would like to make changes to my order, how do I go about doing so?</b></i>\n
+        If you would like to make changes to your order, you may:\n
+1) Call our office numbers at 6440 8084 or 6440 8075 during office hours\n
+2) Email us at order@crisscoffe.com, indicating your name and contact number so as to allow us to get back to you as soon as possible\n\n
+        <i><b>I would like to postpone/cancel my order. When is the last day I may do so?</b></i>\n
+Postponement and cancellations of any orders have to be done 1 hour prior to the delivery date\n\n
+        <i><b>What are the various payment modes available?</b></i>\n
+You may make your payment via:\n
+1) Cash on delivery\n
+2) Cheque\n
+3) Vendors@gov E-invoice ( For Government Agencies only)\n
+4) PayNow\n
+5) GrabPay\n
+
+Please indicate to us the mode of payment when ordering. Alternatively, you may also make payment at our office at 69 Joo Chiat Place. Payment have to be made 1 day before delivery.\n\n
+        <i><b>Do you deliver to all locations?</b></i>\n
+We deliver to all locations, except to Lim Chu Kang and all offshore islands\n\n
+        <i><b>When are the delivery services available?</b></i>\n
+Delivery services are available from Mondays to Saturdays, excluding Public Holidays.\n
+For urgent deliveries on Sundays and Public Holidays, kindly contact our sales team. Additional surcharge will be chargeable depending on order.\n\n
+        <i><b>I would like to collect the purchases myself. Am I able to do so?</b></i>\n
+Yes, you are able to collect the purchases yourself at our office if you do not want the goods to be delivered to you. However, please do state Self-Collection in the Delivery Address section of the order form.\n\n
+
+    </string>
+    <string name="faq_button">FAQ</string>
+    <string name="answer"><![CDATA[Q&A]]></string>
+
+
+</resources>
