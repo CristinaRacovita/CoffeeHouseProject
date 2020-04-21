@@ -1,7 +1,7 @@
 # Coffee House Delivery App
 What I used:
 - Implicit intent (for opening in the browser the location of the cafe house, when you press the map image).
-- Explicit intent (by pressing a button for chenge the activities).
+- Explicit intent (by pressing a button for change the activities).
 - Time Picker (for setting the delivery hour by client).
 - Edit Text Constraints (the order can't be placed if all the fields are incomplete).
 - Toast Message (when you press on one of specialities that you want to buy, a message will appear).
